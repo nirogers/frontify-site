@@ -1,0 +1,18 @@
+/* The styles here are written to affect hover states on the cover page*/
+
+
+.p-col {
+  opacity: 0.7;
+}
+
+.p-col:hover {
+  opacity: 0.4;
+}
+
+.m-navdocuments__item-link {
+  opacity: 0.4;
+}
+
+.pb-text-image__text-inner span {
+  color: red;
+}
