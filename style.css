@@ -16,3 +16,7 @@
 .pb-text-image__text-inner span {
   color: red;
 }
+
+body {
+  opacity: 0.6;
+}
